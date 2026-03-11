@@ -11,9 +11,9 @@ A simple command-line Python tool that generates strong random passwords based o
 - Shuffles characters for natural-looking passwords
 
 ## How to Run
-git clone https://github.com/ccmgbajah-maker/password_generator.git
-cd password_generator
-python password_generator.py
+- git clone https://github.com/ccmgbajah-maker/password_generator.git
+- cd password_generator
+- python password_generator.py
 
 ## What I Learned
 - Input validation try/except and loops
